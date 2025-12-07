@@ -1,3 +1,190 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-community",
+      "description": "A diverse group of people from the church community smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1565813086292-604790c8a97b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaHVyY2glMjBjb21tdW5pdHl8ZW58MHx8fHwxNzY1MTEwODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church community"
+    },
+    {
+      "id": "ministry-men",
+      "description": "Men's ministry group in discussion.",
+      "imageUrl": "https://images.unsplash.com/photo-1544486927-c903fcc7dcc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtZW4lMjB0YWxraW5nfGVufDB8fHx8MTc2NTExMDgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "men talking"
+    },
+    {
+      "id": "ministry-women",
+      "description": "Women's ministry group laughing together.",
+      "imageUrl": "https://images.unsplash.com/photo-1555817129-2fa6b81bd8e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21lbiUyMGxhdWdoaW5nfGVufDB8fHx8MTc2NTExMDgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "women laughing"
+    },
+    {
+      "id": "ministry-youth",
+      "description": "Youth group playing a game.",
+      "imageUrl": "https://images.unsplash.com/photo-1696919161666-2ea301ead734?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWVuYWdlcnMlMjBmdW58ZW58MHx8fHwxNzY1MTEwODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teenagers fun"
+    },
+    {
+      "id": "ministry-children",
+      "description": "Children's ministry with kids painting.",
+      "imageUrl": "https://images.unsplash.com/photo-1560421683-6856ea585c78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaGlsZHJlbiUyMHBhaW50aW5nfGVufDB8fHx8MTc2NTAwNTEyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "children painting"
+    },
+    {
+      "id": "sermon-faith",
+      "description": "Abstract image representing faith.",
+      "imageUrl": "https://images.unsplash.com/photo-1553085118-5a5c02cbcf2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYWl0aCUyMGhvcGV8ZW58MHx8fHwxNzY1MTEwODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "faith hope"
+    },
+    {
+      "id": "sermon-grace",
+      "description": "Image of hands held open.",
+      "imageUrl": "https://images.unsplash.com/photo-1485808269728-77bb07c059a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvcGVuJTIwaGFuZHN8ZW58MHx8fHwxNzY1MTEwODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "open hands"
+    },
+    {
+      "id": "sermon-purpose",
+      "description": "A compass pointing north.",
+      "imageUrl": "https://images.unsplash.com/photo-1603623898218-0cb7f493309b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb21wYXNzJTIwZGlyZWN0aW9ufGVufDB8fHx8MTc2NTA1MzQwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "compass direction"
+    },
+    {
+      "id": "event-conference",
+      "description": "Flyer for the annual conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1578407612742-73a9fc310859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb25mZXJlbmNlJTIwcG9zdGVyfGVufDB8fHx8MTc2NTExMDgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "conference poster"
+    },
+    {
+      "id": "event-picnic",
+      "description": "Flyer for the community picnic.",
+      "imageUrl": "https://images.unsplash.com/photo-1651671822725-42b0b5d137c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaWNuaWMlMjBwb3N0ZXJ8ZW58MHx8fHwxNzY1MTEwODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "picnic poster"
+    },
+    {
+      "id": "event-concert",
+      "description": "Flyer for the Christmas concert.",
+      "imageUrl": "https://images.unsplash.com/photo-1689307181078-d05d73af61ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25jZXJ0JTIwcG9zdGVyfGVufDB8fHx8MTc2NTExMDgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concert poster"
+    },
+    {
+      "id": "contact-prayer",
+      "description": "Hands folded in prayer.",
+      "imageUrl": "https://images.unsplash.com/photo-1575516662637-99214ea59f23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcmF5aW5nJTIwaGFuZHN8ZW58MHx8fHwxNzY1MDE0MDgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "praying hands"
+    },
+    {
+      "id": "giving-offering",
+      "description": "An offering basket.",
+      "imageUrl": "https://images.unsplash.com/photo-1761711952051-207430f81183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvZmZlcmluZyUyMGJhc2tldHxlbnwwfHx8fDE3NjUxMTA4MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "offering basket"
+    },
+    {
+      "id": "about-hero",
+      "description": "A wide shot of the church congregation during a service.",
+      "imageUrl": "https://images.unsplash.com/photo-1525104171570-308e54169ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaHVyY2glMjBjb25ncmVnYXRpb258ZW58MHx8fHwxNzY1MDIyMzMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church congregation"
+    },
+    {
+      "id": "leader-1",
+      "description": "Portrait of Pastor John Adebayo.",
+      "imageUrl": "https://images.unsplash.com/photo-1522556189639-b150ed9c4330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjUwOTc0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "leader-2",
+      "description": "Portrait of Pastor Jane Doe.",
+      "imageUrl": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NTAxNzM4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "leader-3",
+      "description": "Portrait of Michael Chen.",
+      "imageUrl": "https://images.unsplash.com/photo-1621624666561-84d0107001dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc2NTA0NDMyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "leader-4",
+      "description": "Portrait of a Youth Pastor.",
+      "imageUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx5b3VuZyUyMHBlcnNvbnxlbnwwfHx8fDE3NjUwMTQ3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "young person"
+    },
+    {
+      "id": "history-1",
+      "description": "An old, small building representing the church's start.",
+      "imageUrl": "https://images.unsplash.com/photo-1617301052450-f8ec937bbbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxvbGQlMjBidWlsZGluZ3xlbnwwfHx8fDE3NjUxMDA5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "old building"
+    },
+    {
+      "id": "history-2",
+      "description": "A group of people working together to build something.",
+      "imageUrl": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb21tdW5pdHklMjBidWlsZGluZ3xlbnwwfHx8fDE3NjUxMTA4MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community building"
+    },
+    {
+      "id": "history-3",
+      "description": "Volunteers packing food boxes for a food drive.",
+      "imageUrl": "https://images.unsplash.com/photo-1608686207856-001b95cf60ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb21tdW5pdHklMjBvdXRyZWFjaHxlbnwwfHx8fDE3NjUxMTA4MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community outreach"
+    },
+    {
+      "id": "history-4",
+      "description": "The current church building on a sunny day.",
+      "imageUrl": "https://images.unsplash.com/photo-1634261952340-0e3d61bf1dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtb2Rlcm4lMjBjaHVyY2h8ZW58MHx8fHwxNzY1MDU4Njc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern church"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Exterior shot of the modern church building.",
+      "imageUrl": "https://images.unsplash.com/photo-1696159380871-57aa4e2db0bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2h1cmNoJTIwZXh0ZXJpb3J8ZW58MHx8fHwxNzY1MTEwODA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church exterior"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Interior of the main sanctuary, empty.",
+      "imageUrl": "https://images.unsplash.com/photo-1562025128-ca91c8c29ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaHVyY2glMjBzYW5jdHVhcnl8ZW58MHx8fHwxNzY1MTEwODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church sanctuary"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A fellowship hall with tables and chairs.",
+      "imageUrl": "https://images.unsplash.com/photo-1729799959058-bda08177a84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmZWxsb3dzaGlwJTIwaGFsbHxlbnwwfHx8fDE3NjUxMTA4MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fellowship hall"
+    },
+    {
+      "id": "gallery-4",
+      "description": "A children's classroom in the church.",
+      "imageUrl": "https://images.unsplash.com/photo-1647451963111-fc00cc4ae830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaGlsZHJlbiUyMGNsYXNzcm9vbXxlbnwwfHx8fDE3NjUxMDA5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "children classroom"
+    },
+    {
+      "id": "ministries-hero",
+      "description": "A group of volunteers working together with smiles on their faces.",
+      "imageUrl": "https://images.unsplash.com/photo-1760367121608-79219f1c9d2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaHVyY2glMjB2b2x1bnRlZXJzfGVufDB8fHx8MTc2NTExMDgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church volunteers"
+    },
+    {
+      "id": "ministry-music",
+      "description": "A church choir singing during a service.",
+      "imageUrl": "https://images.unsplash.com/photo-1745852738196-4dfed8cbd691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2h1cmNoJTIwY2hvaXJ8ZW58MHx8fHwxNzY1MTEwODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church choir"
+    },
+    {
+      "id": "ministry-outreach",
+      "description": "A globe with hands around it, symbolizing missions.",
+      "imageUrl": "https://images.unsplash.com/photo-1706645740887-034a4d930e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxnbG9iYWwlMjBtaXNzaW9uc3xlbnwwfHx8fDE3NjUxMTA4MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "global missions"
+    },
+    {
+      "id": "ministry-prayer",
+      "description": "A group of people holding hands in a circle and praying.",
+      "imageUrl": "https://images.unsplash.com/photo-1725545597890-981ee805f1e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcmF5ZXIlMjBjaXJjbGV8ZW58MHx8fHwxNzY1MTEwODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "prayer circle"
+    },
+    {
+      "id": "ministry-hospitality",
+      "description": "A person warmly greeting another at a church entrance.",
+      "imageUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaHVyY2glMjB3ZWxjb21lfGVufDB8fHx8MTc2NTExMDgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church welcome"
+    }
+  ]
 }
