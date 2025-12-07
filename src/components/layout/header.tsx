@@ -32,7 +32,7 @@ const Header = () => {
         href={href}
         className={cn(
           "text-sm font-medium transition-colors hover:text-primary",
-          isActive ? "text-primary" : "text-muted-foreground"
+          isActive ? "text-primary underline underline-offset-4" : "text-muted-foreground"
         )}
         onClick={() => setIsMobileMenuOpen(false)}
       >
