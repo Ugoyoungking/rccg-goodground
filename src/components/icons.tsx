@@ -34,8 +34,8 @@ export function ChurchLogo(props: SVGProps<SVGSVGElement>) {
       <path d="M12 2L2 7l10 5 10-5-10-5z" />
       <path d="M2 17l10 5 10-5" />
       <path d="M2 12l10 5 10-5" />
-      <text x="50%" y="60%" textAnchor="middle" dy=".3em" fontSize="8px" fontWeight="bold" fill="currentColor">
-        RCCG
+      <text x="50%" y="60%" textAnchor="middle" dy=".3em" fontSize="6px" fontWeight="bold" fill="currentColor">
+        RCCG GGA
       </text>
     </svg>
   );

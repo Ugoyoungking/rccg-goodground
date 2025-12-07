@@ -6,8 +6,8 @@ import Header from '@/components/layout/header';
 import Footer from '@/components/layout/footer';
 
 export const metadata: Metadata = {
-  title: 'RCCG',
-  description: 'Welcome to the Redeemed Christian Church of God',
+  title: 'RCCG Good Ground Area',
+  description: 'Welcome to the Redeemed Christian Church of God, Good Ground Area',
 };
 
 export default function RootLayout({

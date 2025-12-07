@@ -45,7 +45,7 @@ const Header = () => {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2">
           <ChurchLogo className="h-8 w-8 text-primary" />
-          <span className="font-bold text-lg font-headline text-primary">RCCG</span>
+          <span className="font-bold text-lg font-headline text-primary">RCCG Good Ground Area</span>
         </Link>
         <nav className="hidden md:flex items-center space-x-6">
           {navLinks.map((link) => (
@@ -71,7 +71,7 @@ const Header = () => {
                     <div className="flex items-center justify-between border-b pb-4">
                       <Link href="/" className="flex items-center gap-2" onClick={() => setIsMobileMenuOpen(false)}>
                           <ChurchLogo className="h-8 w-8 text-primary" />
-                          <span className="font-bold text-lg font-headline">RCCG</span>
+                          <span className="font-bold text-lg font-headline">RCCG Good Ground Area</span>
                       </Link>
                       <Button variant="ghost" size="icon" onClick={() => setIsMobileMenuOpen(false)}>
                         <X className="h-6 w-6" />

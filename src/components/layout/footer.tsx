@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
               <ChurchLogo className="h-8 w-8 text-accent" />
-              <span className="text-xl font-bold font-headline">RCCG</span>
+              <span className="text-xl font-bold font-headline">RCCG GGA</span>
             </Link>
             <p className="text-sm text-primary-foreground/80">
               A place of hope, faith, and community.
@@ -44,7 +44,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 border-t border-primary-foreground/20 pt-8 text-center text-sm text-primary-foreground/60">
-          <p>&copy; {new Date().getFullYear()} RCCG. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} RCCG Good Ground Area. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
