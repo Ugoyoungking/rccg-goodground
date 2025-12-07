@@ -11,21 +11,6 @@ const faqs = [
     answer: "This website was built by Ugochukwu, a passionate and God-fearing Web Developer and Graphic Designer dedicated to crafting modern, responsive, and user-focused digital experiences.",
     icon: <User className="h-5 w-5 text-primary" />
   },
-  {
-    question: 'What is his mission?',
-    answer: "He takes pride in transforming creative ideas into functional, visually appealing, and high-performing websites that don't just look great — they make an impact. Every project he builds reflects his commitment to excellence, creativity, and faith-driven purpose.",
-    icon: <Rocket className="h-5 w-5 text-primary" />
-  },
-  {
-    question: 'What technologies does he use?',
-    answer: "His journey began with HTML and CSS, and over time, he's mastered technologies like JavaScript, React, and Node.js. This specific application is built with a modern tech stack, including Next.js for the React framework, Tailwind CSS for styling, and ShadCN for the UI components.",
-    icon: <Code className="h-5 w-5 text-primary" />
-  },
-  {
-    question: 'What drives him?',
-    answer: "Every project he builds reflects his commitment to excellence, creativity, and a faith-driven purpose.",
-    icon: <Heart className="h-5 w-5 text-primary" />
-  },
 ];
 
 export default function FaqPage() {
