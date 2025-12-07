@@ -34,7 +34,7 @@ export default function FaqPage() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12 flex flex-col items-center">
             <Image 
-                src="https://images.unsplash.com/photo-1621624666561-84d00107001dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc2NTA0NDMyMXww&ixlib=rb-4.1.0&q=80&w=1080"
+                src="https://image2url.com/images/1759256290632-55f4e88b-aa2c-4f91-afd4-29f8303e12a0.jpg"
                 alt="Ugochukwu"
                 width={150}
                 height={150}
