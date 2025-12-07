@@ -44,9 +44,12 @@ const Header = () => {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-card/80 backdrop-blur-sm">
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
-        <Link href="/" className="flex items-center gap-2">
-          <ChurchLogo className="h-8 w-8 text-primary" />
-          <span className="font-bold text-lg font-headline text-primary whitespace-nowrap overflow-hidden text-ellipsis">Redeemed Christian Church of God Good Ground Area</span>
+        <Link href="/" className="flex items-center gap-2 min-w-0">
+          <ChurchLogo className="h-8 w-8 text-primary flex-shrink-0" />
+          <span className="font-bold text-lg font-headline text-primary truncate">
+              <span className="hidden sm:inline">Redeemed Christian Church of God Good Ground Area</span>
+              <span className="sm:hidden">RCCG Good Ground Area</span>
+          </span>
         </Link>
         <nav className="hidden md:flex items-center space-x-6">
           {navLinks.map((link) => (
