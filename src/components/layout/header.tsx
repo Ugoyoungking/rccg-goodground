@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
-import { Menu, X, Gift, Calendar, BookOpen, Mail, Bot, Home, Info, HeartHandshake } from 'lucide-react';
+import { Menu, X, Gift, Calendar, BookOpen, Mail, Bot, Home, Info, HeartHandshake, HelpCircle } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { cn } from '@/lib/utils';
@@ -18,6 +18,7 @@ const navLinks = [
   { href: '/giving', label: 'Giving', icon: <Gift className="h-5 w-5" /> },
   { href: '/contact', label: 'Contact', icon: <Mail className="h-5 w-5" /> },
   { href: '/sermons/new', label: 'AI Tool', icon: <Bot className="h-5 w-5" /> },
+  { href: '/faq', label: 'FAQ', icon: <HelpCircle className="h-5 w-5" /> },
 ];
 
 const Header = () => {
@@ -45,7 +46,7 @@ const Header = () => {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2">
           <ChurchLogo className="h-8 w-8 text-primary" />
-          <span className="font-bold text-lg font-headline text-primary">RCCG Good Ground Area</span>
+          <span className="font-bold text-lg font-headline text-primary whitespace-nowrap overflow-hidden text-ellipsis">Redeemed Christian Church of God Good Ground Area</span>
         </Link>
         <nav className="hidden md:flex items-center space-x-6">
           {navLinks.map((link) => (
